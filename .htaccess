@@ -1,0 +1,5 @@
+ErrorDocument 400 http://localhost/php/nikolasrecipe/index.php?page=400
+ErrorDocument 401 http://localhost/php/nikolasrecipe/index.php?page=401
+ErrorDocument 403 http://localhost/php/nikolasrecipe/index.php?page=403
+ErrorDocument 404 http://localhost/php/nikolasrecipe/index.php?page=404
+ErrorDocument 500 http://localhost/php/nikolasrecipe/index.php?page=500
