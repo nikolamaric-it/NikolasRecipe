@@ -40,4 +40,3 @@ Descrizione:
   - guidare lo Chef durante la pubblicazione;
   - creare in automatico i microdata ed i tag SEO e quindi aumentare l'indicizzazione del sito sui motori di ricerca;
   - garantire che il risultato finale segua le regole della UX e quindi che sia facile da leggere e da capire.
-  
